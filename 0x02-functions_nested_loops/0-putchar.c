@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * main - Prints 
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
