@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - Prints 
+ * main - Prints
  *
  * Return: Always 0 (Success)
  */
