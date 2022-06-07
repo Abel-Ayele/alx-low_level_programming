@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ *  times_table - checks for the alphabet in lowercase and uppercase
+ *
+ *Return: 1 is lowercase or uppercase letter and 0 if not
+*/
 
 void main(void)
 {
